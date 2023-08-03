@@ -1,0 +1,10 @@
+(librepcb_library f26616a8-6574-47c9-a389-9ad3e1e92fe7
+ (name "MinebeaMitsumi")
+ (description "Electromechanical Components")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2022-05-14T17:25:20Z)
+ (deprecated false)
+ (url "")
+)

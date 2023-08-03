@@ -1,0 +1,10 @@
+(librepcb_package_category 031e0f6d-c898-4e00-9a50-2295ad8389d3
+ (name "MinebeaMitsumi")
+ (description "")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2022-05-14T17:26:04Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
